@@ -7,3 +7,4 @@ Código limpo é mais importante do que código rápido.
 A melhor forma de aprender a programar é escrevendo código todo dia.
 
 Comentários no código são como placas de trânsito: bons quando explicam, ruins quando confundem.
+ddmdmddd
